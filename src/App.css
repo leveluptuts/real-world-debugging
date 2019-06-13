@@ -31,3 +31,10 @@
     transform: rotate(360deg);
   }
 }
+
+.offscreen {
+  width: 100vw;
+  height: 200px;
+  margin-left: 1000px;
+  background: blue;
+}
